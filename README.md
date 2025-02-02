@@ -87,6 +87,30 @@ pyinstaller --onefile main.py
 
 ---
 
+### Screenshots 
+
+List of demos Screenshots : 
+
+
+![encouragement](./demo-screenshots/encouragement-demo-2025-02-02-151754.jpg)
+
+
+
+![supramusic-demo](./demo-screenshots/supramusic-demo-2025-02-02-135540.jpg)
+
+
+
+![supramusic-demo2](./demo-screenshots/supramusic-notif2-2025-02-02-140017.jpg)
+
+
+
+![supramusic-demo3](./demo-screenshots/supramusic-demo3-2025-02-02-140558.jpg)
+
+
+![supramusic-execution](./demo-screenshots/supramusic-execution-2025-02-02-135713.jpg)
+
+---
+
 ### Sources : 
 [xboxachievements](https://www.xboxachievements.com/)
 [tutorialspoint-win10toast](https://www.tutorialspoint.com/windows-10-toast-notifications-with-python)
